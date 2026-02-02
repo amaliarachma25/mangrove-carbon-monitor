@@ -52,7 +52,7 @@ $$Carbon\ Stock = AGB \times 0.47$$
 ## 📊 Visualization Results
 
 _(Upload your Dashboard image to the repo and reference it here)_
-![Dashboard Analysis](path/to/your/dashboard_image.png)
+![Dashboard Analysis]("D:\magang\portofolio\carbon\carbon 2019-2024\Dashboard_Mangrove_v2.png")
 
 The output includes:
 
