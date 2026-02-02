@@ -50,7 +50,7 @@ $$Carbon\ Stock = AGB \times 0.47$$
 ---
 
 ## 📊 Visualization Results
-![Uploading Dashboard_Mangrove_v2.png…]()
+[![Uploading Dashboard_Mangrove_v2.png…]()](https://github.com/amaliarachma25/mangrove-carbon-monitor/blob/main/Dashboard_Mangrove_v2.png)
 
 
 The output includes:
