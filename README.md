@@ -88,3 +88,7 @@ This methodology is aligned with standard remote sensing practices for mangrove 
 - **ESA Sentinel-2** for high-resolution optical data.
 - **IPCC Guidelines** for carbon fraction conversion.
 - **Vegetation Indices (NDVI)** as a proxy for biomass modeling.
+
+https://www.sciencedirect.com/science/article/pii/S1574954125000469
+https://www.bio-conferences.org/articles/bioconf/abs/2025/19/bioconf_isoss2024_05007/bioconf_isoss2024_05007.html
+https://isprs-annals.copernicus.org/articles/IV-3/29/2018/
