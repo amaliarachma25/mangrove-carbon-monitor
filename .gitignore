@@ -1,0 +1,13 @@
+# Ignore heavy data files
+*.tif
+*.tiff
+*.jp2
+
+# Ignore folder data path (opsional, jika ada folder data di dalam repo)
+data/
+output/
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints
